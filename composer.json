@@ -1,0 +1,19 @@
+{
+  "name": "geangontijo/validador",
+  "description": "Validador de estruras",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "geangontijo",
+      "email": "geangontijo@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "geangontijo\\Validador\\": "./src/"
+    }
+  }
+}
